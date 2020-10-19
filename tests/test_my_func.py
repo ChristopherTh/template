@@ -3,4 +3,4 @@ from pack.functions import my_func
 
 def test_sdf():
 
-    assert 1 == 1
+    assert 1 == 2
